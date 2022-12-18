@@ -6,4 +6,4 @@ After a while more dots will appear and also the velocity of the dots increases.
 After loosing the player can choose to replay or he/she can exit the game by closing the window. The window can close at any time. 
 
 The game was created while attending the course "Problem Solving, Python Programming, and Video Games" by University of Alberta, in Coursera. 
-This course is an introduction to computer science and programming in Python. 
+This course is an introduction to computer science and programming with Python. 
